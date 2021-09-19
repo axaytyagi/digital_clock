@@ -1,0 +1,17 @@
+
+.watch{
+    display:flex;
+    justify-content: center;
+    outline: brown;
+    background-color: black;
+    outline-width: 5px;
+    color:darkorange;
+}
+.btn{
+
+    background-color: brown;
+    color: white;
+    border-radius: 20px;
+    height: 45px;
+    width: 100px;
+}
